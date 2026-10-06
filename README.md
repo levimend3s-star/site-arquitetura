@@ -9,10 +9,10 @@ Certificações/Contato.
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
+LEVI NATHANAEL
+LUCAS DE JESUS
+PEDRO HENRIQUE
+THOMÁS DA SILVA
 
 > Substituam pelos nomes reais do grupo antes da entrega.
 
