@@ -10,8 +10,11 @@ Certificações/Contato.
 ## Integrantes
 
 LEVI NATHANAEL
+
 LUCAS DE JESUS
+
 PEDRO HENRIQUE
+
 THOMÁS DA SILVA
 
 > Substituam pelos nomes reais do grupo antes da entrega.
